@@ -1,0 +1,19 @@
+/* NAVBAR STYLING */
+.navbar.navbar-expand-lg.navbar-dark{
+    padding: 0.5rem 1rem;
+}
+
+.navbar-nav a{
+    margin-right: 2rem;
+    color:white;
+}
+
+/* BODY */
+.headline{
+    justify-content: flex-end;
+    text-align: right;
+}
+
+
+
+/* FOOTER */
